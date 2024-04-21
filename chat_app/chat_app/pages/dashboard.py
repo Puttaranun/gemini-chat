@@ -14,7 +14,7 @@ re
     """
     return rx.vstack(
         rx.heading("Tasks", size="8"),
-        # rx.text("Welcome to Reflex!"),
+        rx.text("You can see your progress on tasks here!"),
         # rx.text(
         #     "You can edit this page in ",
         #     rx.code("{your_app}/pages/Dashboard.py"),

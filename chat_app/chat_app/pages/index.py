@@ -146,5 +146,5 @@ def index() -> rx.Component:
             chat(process=process),
             height="100vh",
         ),
-        size="4"
+        size="2"
     )
